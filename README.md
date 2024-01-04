@@ -77,4 +77,5 @@ Resource Visualizer
 resource-display
 
 **Final Project Statement:**
+
 The final project statement for enhancing a bank's website involves leveraging Azure services to establish a robust and secure online platform. Key components include utilizing Azure Virtual Machines for scalable and flexible computing, Azure Storage for secure and scalable data storage, and Azure Virtual Network for creating a secure and isolated network environment. Integration with Azure services ensures a comprehensive ecosystem, enhancing security, compliance, and overall website performance. The project aims to optimize data management, facilitate collaboration, and meet regulatory requirements, ultimately providing customers with a seamless, secure, and feature-rich online banking experience.
