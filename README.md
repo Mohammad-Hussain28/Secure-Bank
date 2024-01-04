@@ -8,7 +8,7 @@
 
 2.Demo Video URL :
 
-3.Github Repository URL : [https://github.com/Bhargavi-P19/Secure-bank/pull/1]
+3.Github Repository URL : [https://github.com/Mohammad-Hussain28/Secure-Bank]
 
 4.Industry : FINANCE
 
