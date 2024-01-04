@@ -2,10 +2,14 @@
 
 **Project Title : "Secure Bank" is a web app deployed using Azure Service.**
 
-Project Details
-1.Project Demo URL : 
-2.Demo Video URL : 
-3.Github Repository URL : https://github.com/Bhargavi-P19/Secure-bank/pull/1
+**Project Details**
+
+1.Project Demo URL :
+
+2.Demo Video URL :
+
+3.Github Repository URL : [https://github.com/Bhargavi-P19/Secure-bank/pull/1]
+
 4.Industry : FINANCE
 
 Azure Services Used
