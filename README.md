@@ -1,7 +1,6 @@
+# Secure bank - Project
 
-                                       Secure bank
-
-Project Title: secure bank
+**Project Title: "Secure Bank"
 Project Details
 1.Project Demo URL : 
 2.Demo Video URL : 
