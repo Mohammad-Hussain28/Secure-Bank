@@ -6,7 +6,7 @@
 
 1.Project Demo URL :
 
-2.Demo Video URL :
+2.Demo Video URL : [https://securebank0.z7.web.core.windows.net/]
 
 3.Github Repository URL : [https://github.com/Mohammad-Hussain28/Secure-Bank]
 
