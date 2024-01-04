@@ -1,6 +1,7 @@
 # Secure bank - Project
 
-**Project Title: "Secure Bank"**
+**Project Title : "Secure Bank" is a web app deployed using Azure Service.**
+
 Project Details
 1.Project Demo URL : 
 2.Demo Video URL : 
